@@ -3,11 +3,15 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 ##
-# include/
-# QHotkey/
-# resource[123456789].h
-# *.ico
-# *.rc
+include/
+QHotkey/
+resource[123456789].h
+resource.h
+*.ico
+*.rc
+*.sln
+*.vcxproj*
+res/
 # User-specific files
 *.rsuser
 *.suo
