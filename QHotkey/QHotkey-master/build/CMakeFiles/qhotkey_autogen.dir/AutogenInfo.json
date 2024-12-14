@@ -1,0 +1,191 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/qhotkey_autogen",
+	"CMAKE_BINARY_DIR" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master",
+	"CMAKE_EXECUTABLE" : "D:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/CMakeLists.txt",
+		"E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/3.31.2/CMakeSystem.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake",
+		"E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/3.31.2/CMakeCXXCompiler.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/CMakeGenericSystem.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCXXInformation.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/MSVC-CXX.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/MSVC.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC-CXX.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC.cmake",
+		"E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/3.31.2/CMakeRCCompiler.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/CMakeRCInformation.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC-CXX.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/CMakeParseArguments.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QInsightTrackerPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/CPack.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/CPackComponent.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Templates/CPackConfig.cmake.in",
+		"D:/Program Files/CMake/share/cmake-3.31/Templates/CPackConfig.cmake.in",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/GNUInstallDirs.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/CMakePackageConfigHelpers.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/WriteBasicConfigVersionFile.cmake",
+		"D:/Program Files/CMake/share/cmake-3.31/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in"
+	],
+	"CMAKE_SOURCE_DIR" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/QHotkey/qhotkey.h",
+			"Mu",
+			"CDZSFYPHEU/moc_qhotkey.cpp",
+			null
+		],
+		[
+			"E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/QHotkey/qhotkey_p.h",
+			"Mu",
+			"CDZSFYPHEU/moc_qhotkey_p.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/qhotkey_autogen/include",
+	"INCLUDE_DIR_Debug" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/qhotkey_autogen/include_Debug",
+	"INCLUDE_DIR_MinSizeRel" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/qhotkey_autogen/include_MinSizeRel",
+	"INCLUDE_DIR_RelWithDebInfo" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/qhotkey_autogen/include_RelWithDebInfo",
+	"INCLUDE_DIR_Release" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/qhotkey_autogen/include_Release",
+	"MOC_COMPILATION_FILE" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/qhotkey_autogen/mocs_compilation.cpp",
+	"MOC_COMPILATION_FILE_Debug" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/qhotkey_autogen/mocs_compilation_Debug.cpp",
+	"MOC_COMPILATION_FILE_MinSizeRel" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/qhotkey_autogen/mocs_compilation_MinSizeRel.cpp",
+	"MOC_COMPILATION_FILE_RelWithDebInfo" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/qhotkey_autogen/mocs_compilation_RelWithDebInfo.cpp",
+	"MOC_COMPILATION_FILE_Release" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/qhotkey_autogen/mocs_compilation_Release.cpp",
+	"MOC_DEFINITIONS" : [],
+	"MOC_DEFINITIONS_Debug" : [ "QT_CORE_LIB", "QT_GUI_LIB", "WIN32" ],
+	"MOC_DEFINITIONS_MinSizeRel" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "WIN32" ],
+	"MOC_DEFINITIONS_RelWithDebInfo" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "WIN32" ],
+	"MOC_DEFINITIONS_Release" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "WIN32" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : [],
+	"MOC_INCLUDES_Debug" : 
+	[
+		"E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/QHotkey",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/include",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/include/QtCore",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/mkspecs/win32-msvc",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/include/QtGui",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/include/QtANGLE"
+	],
+	"MOC_INCLUDES_MinSizeRel" : 
+	[
+		"E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/QHotkey",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/include",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/include/QtCore",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/mkspecs/win32-msvc",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/include/QtGui",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/include/QtANGLE"
+	],
+	"MOC_INCLUDES_RelWithDebInfo" : 
+	[
+		"E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/QHotkey",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/include",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/include/QtCore",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/mkspecs/win32-msvc",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/include/QtGui",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/include/QtANGLE"
+	],
+	"MOC_INCLUDES_Release" : 
+	[
+		"E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/QHotkey",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/include",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/include/QtCore",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/mkspecs/win32-msvc",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/include/QtGui",
+		"D:/Tools/Qt/5.15.2/msvc2019_64/include/QtANGLE"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : true,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/qhotkey_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE_Debug" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/qhotkey_autogen.dir/ParseCache_Debug.txt",
+	"PARSE_CACHE_FILE_MinSizeRel" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/qhotkey_autogen.dir/ParseCache_MinSizeRel.txt",
+	"PARSE_CACHE_FILE_RelWithDebInfo" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/qhotkey_autogen.dir/ParseCache_RelWithDebInfo.txt",
+	"PARSE_CACHE_FILE_Release" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/qhotkey_autogen.dir/ParseCache_Release.txt",
+	"QT_MOC_EXECUTABLE" : "D:/Tools/Qt/5.15.2/msvc2019_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/qhotkey_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE_Debug" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/qhotkey_autogen.dir/AutogenUsed_Debug.txt",
+	"SETTINGS_FILE_MinSizeRel" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/qhotkey_autogen.dir/AutogenUsed_MinSizeRel.txt",
+	"SETTINGS_FILE_RelWithDebInfo" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/qhotkey_autogen.dir/AutogenUsed_RelWithDebInfo.txt",
+	"SETTINGS_FILE_Release" : "E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/qhotkey_autogen.dir/AutogenUsed_Release.txt",
+	"SOURCES" : 
+	[
+		[
+			"E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/QHotkey/qhotkey.cpp",
+			"Mu",
+			null
+		],
+		[
+			"E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/QHotkey/qhotkey_win.cpp",
+			"Mu",
+			null
+		]
+	],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Spotlight">
+        <file>res/img-b7f5935e94f6deda4fda5e2820c48bef.jpg</file>
+        <file>res/icon.png</file>
+        <file>res/notification_close_hover.png</file>
+        <file>res/type_error.png</file>
+        <file>res/type_information.png</file>
+        <file>res/type_success.png</file>
+        <file>res/type_warning.png</file>
+        <file>res/notification_close.png</file>
+    </qresource>
+</RCC>

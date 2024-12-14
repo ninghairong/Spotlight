@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ColorLabelWidgetClass</class>
+ <widget class="QWidget" name="ColorLabelWidgetClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>142</width>
+    <height>42</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ColorLabelWidget</string>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout_3">
+   <property name="spacing">
+    <number>2</number>
+   </property>
+   <property name="leftMargin">
+    <number>0</number>
+   </property>
+   <property name="topMargin">
+    <number>0</number>
+   </property>
+   <property name="rightMargin">
+    <number>0</number>
+   </property>
+   <property name="bottomMargin">
+    <number>0</number>
+   </property>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout">
+       <item>
+        <layout class="QGridLayout" name="gridLayout">
+         <property name="spacing">
+          <number>2</number>
+         </property>
+         <item row="1" column="0">
+          <widget class="QRadioButton" name="radioButton_7">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="minimumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">
+QRadioButton::indicator {
+ 	border: 1px solid black;  /* 设置边框 */
+    width: 13px;  /* 设置正方形的边长 */
+    height: 13px; /* 设置正方形的边长 */
+    border-radius: 0px;  /* 去除圆角，确保是正方形 */
+    background-color: #ffffff;  /* 设置选中颜色 */
+}
+
+QRadioButton::indicator:checked {
+   border:2px solid black;  /* 设置边框 */
+}
+</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="2">
+          <widget class="QRadioButton" name="radioButton_8">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="minimumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">
+QRadioButton::indicator {
+ 	border: 1px solid black;  /* 设置边框 */
+    width: 13px;  /* 设置正方形的边长 */
+    height: 13px; /* 设置正方形的边长 */
+    border-radius: 0px;  /* 去除圆角，确保是正方形 */
+    background-color: #ffaec9;  /* 设置选中颜色 */
+}
+
+QRadioButton::indicator:checked {
+   border:2px solid black;  /* 设置边框 */
+}
+</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item row="0" column="1">
+          <widget class="QRadioButton" name="radioButton_2">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="minimumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">
+QRadioButton::indicator {
+ 	border: 1px solid black;  /* 设置边框 */
+    width: 13px;  /* 设置正方形的边长 */
+    height: 13px; /* 设置正方形的边长 */
+    border-radius: 0px;  /* 去除圆角，确保是正方形 */
+    background-color: #7f7f7f;  /* 设置选中颜色 */
+}
+
+QRadioButton::indicator:checked {
+   border:2px solid black;  /* 设置边框 */
+}
+</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item row="0" column="2">
+          <widget class="QRadioButton" name="radioButton_3">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="minimumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">
+QRadioButton::indicator {
+ 	border: 1px solid black;  /* 设置边框 */
+    width: 13px;  /* 设置正方形的边长 */
+    height: 13px; /* 设置正方形的边长 */
+    border-radius: 0px;  /* 去除圆角，确保是正方形 */
+    background-color: #880015;  /* 设置选中颜色 */
+}
+
+QRadioButton::indicator:checked {
+   border:2px solid black;  /* 设置边框 */
+}
+</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="3">
+          <widget class="QRadioButton" name="radioButton_10">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="minimumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">
+QRadioButton::indicator {
+ 	border: 1px solid black;  /* 设置边框 */
+    width: 13px;  /* 设置正方形的边长 */
+    height: 13px; /* 设置正方形的边长 */
+    border-radius: 0px;  /* 去除圆角，确保是正方形 */
+    background-color: #ffc90e;  /* 设置选中颜色 */
+}
+
+QRadioButton::indicator:checked {
+   border:2px solid black;  /* 设置边框 */
+}
+</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="4">
+          <widget class="QRadioButton" name="radioButton_9">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="minimumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">
+QRadioButton::indicator {
+ 	border: 1px solid black;  /* 设置边框 */
+    width: 13px;  /* 设置正方形的边长 */
+    height: 13px; /* 设置正方形的边长 */
+    border-radius: 0px;  /* 去除圆角，确保是正方形 */
+    background-color: #fff200;  /* 设置选中颜色 */
+}
+
+QRadioButton::indicator:checked {
+   border:2px solid black;  /* 设置边框 */
+}
+</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item row="0" column="0">
+          <widget class="QRadioButton" name="radioButton">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="minimumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">
+QRadioButton::indicator {
+ 	border: 1px solid black;  /* 设置边框 */
+    width: 13px;  /* 设置正方形的边长 */
+    height: 13px; /* 设置正方形的边长 */
+    border-radius: 0px;  /* 去除圆角，确保是正方形 */
+    background-color: #000000;  /* 设置选中颜色 */
+}
+
+QRadioButton::indicator:checked {
+   border:2px solid #aaff7f;  /* 设置边框 */
+}
+</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item row="0" column="3">
+          <widget class="QRadioButton" name="radioButton_4">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="minimumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">
+QRadioButton::indicator {
+ 	border: 1px solid black;  /* 设置边框 */
+    width: 13px;  /* 设置正方形的边长 */
+    height: 13px; /* 设置正方形的边长 */
+    border-radius: 0px;  /* 去除圆角，确保是正方形 */
+    background-color: #ed1c24;  /* 设置选中颜色 */
+}
+
+QRadioButton::indicator:checked {
+   border:2px solid black;  /* 设置边框 */
+}
+</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item row="0" column="4">
+          <widget class="QRadioButton" name="radioButton_5">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="minimumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">
+QRadioButton::indicator {
+ 	border: 1px solid black;  /* 设置边框 */
+    width: 13px;  /* 设置正方形的边长 */
+    height: 13px; /* 设置正方形的边长 */
+    border-radius: 0px;  /* 去除圆角，确保是正方形 */
+    background-color: #ff7f27;  /* 设置选中颜色 */
+}
+
+QRadioButton::indicator:checked {
+   border:2px solid black;  /* 设置边框 */
+}
+</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="1">
+          <widget class="QRadioButton" name="radioButton_6">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="minimumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>17</width>
+             <height>17</height>
+            </size>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">
+QRadioButton::indicator {
+ 	border: 1px solid black;  /* 设置边框 */
+    width: 13px;  /* 设置正方形的边长 */
+    height: 13px; /* 设置正方形的边长 */
+    border-radius: 0px;  /* 去除圆角，确保是正方形 */
+    background-color: #c3c3c3;  /* 设置选中颜色 */
+}
+
+QRadioButton::indicator:checked {
+   border:2px solid black;  /* 设置边框 */
+}
+</string>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <widget class="QToolButton" name="borderColorButton">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="minimumSize">
+        <size>
+         <width>36</width>
+         <height>36</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>32</width>
+         <height>36</height>
+        </size>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">QToolButton {
+    background-color: gray;     
+    border: 1px solid transparent;
+    width: 50px;
+    height: 50px;
+    border-radius: 0px;        
+}
+
+QToolButton:hover {
+    border: 2px solid black;     
+}
+
+QToolButton:pressed {
+    border: 3px solid black; 
+}
+</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

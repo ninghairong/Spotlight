@@ -1,0 +1,5 @@
+E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/qhotkey.dir
+E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/PACKAGE.dir
+E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/INSTALL.dir
+E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/ALL_BUILD.dir
+E:/ProjectsSpace/VisualStudio/Spotlight/QHotkey/QHotkey-master/build/CMakeFiles/ZERO_CHECK.dir
