@@ -38,6 +38,8 @@ private:
 	QHotkey* m_pActivateWindowHotkey;
 	QHotkey* m_SwitchFunctionHotkey;
 	Notification* notification;
+	//确保只被激活一次
+	bool m_IsActivate = false;
 
 private slots:
 	//鼠标事件管理

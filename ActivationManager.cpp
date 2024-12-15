@@ -119,13 +119,18 @@ void ActivationManager::mouseControlManger(bool isMouseControl)
 				//m_isPressed = true;
 				//longPressTimer->start(1000); // 1 秒后触发长按
 				//pressPos = pos;    // 记录按下位置
-				emit isActivated(pos, true);
+				if (!m_IsActivate)
+				{
+					m_IsActivate = true;
+					emit isActivated(pos, true);
+				}
 			}
 			});
 
 		connect(m_mouseHook, &GlobalMouseHook::mouseButtonReleased, [=](QPoint pos, Qt::MouseButton button) {
 			if (button == m_buttonActivate) {
 				qDebug() << "Released";
+				m_IsActivate = false;
 				emit isActivated(pos, false);
 			}
 			});
@@ -163,19 +168,27 @@ void ActivationManager::onKeySequenceEditFinished(const QKeySequence& keySequenc
 void ActivationManager::onActivateWindowHotkeyActivated()
 {
 	QPoint globalMousePos = QCursor::pos();
-	emit isActivated(globalMousePos, true);
+	if (!m_IsActivate)
+	{
+		qDebug() << "Activated";
+		m_IsActivate = true;
+		emit isActivated(globalMousePos, true);
+	}
 }
 
 // 槽函数 - Hotkey 2 被激活时触发
 void ActivationManager::onSwitchFunctionHotkeyActivated()
 {
+	qDebug() << "Activated";
 	notification->Push(QString::fromLocal8Bit("切换成功！"), Notify_Type_Success, Pos_Bottom_Right, 1000);
 	emit changed();
 }
 // 槽函数 - Hotkey 1 被释放时触发
 void ActivationManager::onActivateWindowHotkeyReleased()
 {
+	qDebug() << "Activated Released";
 	QPoint globalMousePos = QCursor::pos();
+	m_IsActivate = false;
 	emit isActivated(globalMousePos, false);
 }
 

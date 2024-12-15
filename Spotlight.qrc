@@ -8,5 +8,8 @@
         <file>res/type_success.png</file>
         <file>res/type_warning.png</file>
         <file>res/notification_close.png</file>
+        <file>res/alipay_qr.jpg</file>
+        <file>res/wechat_qr.jpg</file>
+        <file>res/donation.png</file>
     </qresource>
 </RCC>

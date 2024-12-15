@@ -13,6 +13,7 @@
 #include <QMessageBox>
 #include <QGraphicsScene>
 #include <ActivationManager.h>
+#include <DonationWindow.h>
 class MainWindow : public QWidget
 {
 	Q_OBJECT
@@ -27,6 +28,7 @@ private:
 	SpotlightOverlay* m_spotlight;
 	GlobalMouseHook* m_mouseHook;
 	QSystemTrayIcon* trayIcon;
+	DonationWindow* donation;
 	QColor m_borderColor;
 	ActivationManager* m_pActivationManager;
 	//functional

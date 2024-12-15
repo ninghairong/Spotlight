@@ -1,5 +1,6 @@
 #include "MainWindow.h"
 #include <QSettings>
+
 #include <QDebug>
 //初始化鼠标和托盘事件
 void MainWindow::InitMouseAndTray()
@@ -198,6 +199,11 @@ MainWindow::MainWindow(QWidget* parent)
 	InitUIEvent();
 	//初始化配置信息
 	InitConfigInfo();
+	DonationWindow* donation = new DonationWindow;
+
+	connect(ui.pushButton, &QPushButton::clicked, this, [=] {	
+		donation->show();
+		});
 }
 
 MainWindow::~MainWindow()
